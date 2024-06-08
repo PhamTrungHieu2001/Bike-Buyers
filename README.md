@@ -34,12 +34,10 @@ The 'Excel Project.xlsx' consists of the following sheets:
 2. Update 'Marital Status' and 'Gender'
 - Find and replace 'M' and 'S' in 'Marital Status' with 'Married' and 'Single'
 - Find and replace 'M' and 'F' in 'Gender' with 'Male' and 'Female'
+
 <table>
-  <tr>
-    <th> Before </th><the> After </th>
-  </tr>
-  <tr>
-    <td>
+<tr><th> Before </th><the> After </th></tr>
+<tr><td>
 
 | Marital Status | Gender |
 |----------------|--------|
@@ -53,10 +51,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | M              | M      |
 | M              | M      |
 
-    </td>
-    <td>
-
-### After
+</td><td>
 
 | Marital Status | Gender |
 |----------------|--------|
@@ -70,9 +65,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | Married        | Male   |
 | Married        | Male   |
 
-    </td>
-  </tr>
-</table>
+</td></tr> </table>
 
 3. Remove '.00' at the end of the 'Income' column
 - Change the data type to 'Currency'
