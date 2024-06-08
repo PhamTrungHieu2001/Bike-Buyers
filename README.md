@@ -7,25 +7,25 @@ The data is sourced from this [GitHub repository](https://github.com/AlexTheAnal
 
 Attributes:
 - **ID**: Unique identifier for each individual.
-- **Marital Status**: Marital status of the individual (Single/Married).
-- **Gender**: Gender of the individual (Male/Female).
+- **Marital Status**: Marital status of the individual (_Single/Married_).
+- **Gender**: Gender of the individual (_Male/Female_).
 - **Income**: Annual income of the individual in USD.
 - **Children**: Number of children in the household.
-- **Education**: Level of education attained (High School, Bachelors, Graduate Degree, Partial College, Partial High School).
+- **Education**: Level of education attained (_High School, Bachelors, Graduate Degree, Partial College, Partial High School_).
 - **Occupation**: Job title or occupation of the individual.
-- **Home Owner**: Home ownership status (Yes/No).
+- **Home Owner**: Home ownership status (_Yes/No_).
 - **Cars**: Number of cars owned.
-- **Commute Distance**: Distance to work (0-1 Miles, 1-5 Miles, 5-10 Miles, 10+ Miles).
-- **Region**: Region of residence (North America, Europe, Pacific).
+- **Commute Distance**: Distance to work (_0-1 Miles, 1-5 Miles, 5-10 Miles, 10+ Miles_).
+- **Region**: Region of residence (_North America, Europe, Pacific_).
 - **Age**: Age of the individual.
-- **Purchased Bike**: Whether the individual purchased a bike (Yes/No).
+- **Purchased Bike**: Whether the individual purchased a bike (_Yes/No_).
 
 ## Workbook structure
 The 'Excel Project.xlsx' consists of the following sheets:
-* Data: raw data extracted from GitHub
-* Working Sheet: cleaned data
-* PivotTables: containing PivotTables created from the cleaned data
-* Dashboard: containing all the created PivotTables and some filters
+* **Data**: raw data extracted from GitHub
+* **Working Sheet**: cleaned data
+* **PivotTables**: containing PivotTables created from the cleaned data
+* **Dashboard**: containing all the created PivotTables and some filters
 
 ## Data cleaning
 1. Remove duplicates
@@ -36,9 +36,10 @@ The 'Excel Project.xlsx' consists of the following sheets:
 - Find and replace 'M' and 'F' in 'Gender' with 'Male' and 'Female'
 <table>
   <tr>
+    <th> Before </th><the> After </th>
+  </tr>
+  <tr>
     <td>
-
-### Before
 
 | Marital Status | Gender |
 |----------------|--------|
