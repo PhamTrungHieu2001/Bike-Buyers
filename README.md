@@ -36,7 +36,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 - Find and replace 'M' and 'F' in 'Gender' with 'Male' and 'Female'
 
 <table>
-<tr><th> Before </th><the> After </th></tr>
+<tr><th> Before </th><th> After </th></tr>
 <tr><td>
 
 | Marital Status | Gender |
@@ -69,11 +69,10 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 3. Remove '.00' at the end of the 'Income' column
 - Change the data type to 'Currency'
-<table>
-  <tr>
-    <td>
 
-### Before
+<table>
+<tr><th> Before </th><th> After </th></tr>
+<tr><td>
 
 | Income       |
 |--------------|
@@ -87,10 +86,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | $40,000.00   |
 | $20,000.00   |
 
-    </td>
-    <td>
-
-### After
+</td><td>
 
 | Income    |
 |-----------|
@@ -104,9 +100,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | $40,000   |
 | $20,000   |
 
-    </td>
-  </tr>
-</table>
+</td></tr> </table>
 
 4. Divide 'Age' into 'Age group'
 - Use the IF function to divide into 3 age groups: '0-30', '31-54', '55+'
