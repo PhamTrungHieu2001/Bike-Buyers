@@ -2,7 +2,11 @@
 
 ## Overview
 
-## Project structure
+## Workbook structure
+* Data
+* Working Sheet
+* PivotTables
+* Dashboard
 
 ## Data cleaning
 
