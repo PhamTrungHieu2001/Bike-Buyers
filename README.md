@@ -119,8 +119,18 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 ## Create PivotTables
 1. Average Income By Gender
-2. Customer Commute Distance
-3. Customer Age Group
+Males have a significantly higher income than females in both categories
+<img>
 
+2. Customer Commute Distance
+The percentage of people purchasing a bike tends to drop as the commute distance increases.
+The percentages of people with a commute distance of under 5 miles purchasing a bike are around 45 to 60 percent.
+Only about 30% of people with a commute distance of over 10 miles purchase a bike.
+<img>
+3. Customer Age Group
+Only in the 31-54 age group do people buying a bike outnumber those who don't.
+<img>
+  
 ## Create a dashboard
+<img>
 
