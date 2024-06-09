@@ -120,6 +120,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 ## Create PivotTables
 1. Average Income By Gender
 - Males have a significantly higher income than females in both categories
+
 ![Average Income By Gender](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Average%20Income%20By%20Gender.jpg)
 
 
@@ -127,13 +128,16 @@ The 'Excel Project.xlsx' consists of the following sheets:
 - The percentage of people purchasing a bike tends to drop as the commute distance increases.
 - The percentages of people with a commute distance of under 5 miles purchasing a bike are around 45 to 60 percent.
 - Only about 30% of people with a commute distance of over 10 miles purchase a bike.
+
 ![Percentage](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Percentage.jpg)
 
 
 3. Customer Age Group
 - Only in the 31-54 age group do people buying a bike outnumber those who don't.
+
 ![Age Group](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Age%20Group.jpg)
 
 ## Create a dashboard
+
 ![Dashboard](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Dashboard.jpg)
 
