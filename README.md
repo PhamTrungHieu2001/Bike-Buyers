@@ -34,7 +34,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 [Create a dashboard](#header3)  
 
 <a name="header1"/>
-</a>
+
 ## Data cleaning
 
 1. Remove duplicates
