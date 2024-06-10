@@ -29,11 +29,10 @@ The 'Excel Project.xlsx' consists of the following sheets:
 * **Dashboard**: containing all the created PivotTables and some filters
 
 ## Steps  
-[Data cleaning](#header1)  
-[Create PivotTables](#header2)  
-[Create a dashboard](#header3)  
+1. [Data cleaning](#header1)  
+2. [Create PivotTables](#header2)  
+3. [Create a dashboard](#header3)  
 
-<a name="header1"/>
 ## Data cleaning
 
 1. Remove duplicates
@@ -125,7 +124,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | 43  | 31 - 54   |
 | 58  | 55+       |
 
-<a name="header2"/>
 ## Create PivotTables
 
 1. Average Income By Gender
@@ -147,7 +145,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 ![Age Group](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Age%20Group.jpg)
 
-<a name="header3"/>
 ## Create a dashboard
 
 Creating a dashboard with the three PivotTables and filters by 'Marital Status', 'Region', and 'Occupation'
