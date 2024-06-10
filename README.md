@@ -1,6 +1,7 @@
 # Bike-Buyers
 
-## Overview
+## Objective
+The primary objective of this project is to analyze the demographic characteristics of bike buyers, focusing on identifying trends and patterns within different categories. The analysis aims to provide insights into which type of people are likely to purchase a bike, helping stakeholders understand their customer base better.
 
 ## Data source
 The data is sourced from this [GitHub repository](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx). The dataset contains detailed information about individuals who have or have not purchased bikes. The data includes various attributes that can be used to analyze patterns and factors influencing bike purchasing decisions.
@@ -27,15 +28,12 @@ The 'Excel Project.xlsx' consists of the following sheets:
 * **PivotTables**: containing PivotTables created from the cleaned data
 * **Dashboard**: containing all the created PivotTables and some filters
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-<a name="headers"/>
-## Headers
+##### Steps  
+[Header1](#header1)  
+[Header2](#header2)  
+[Header3](#header3)  
 
-## Steps
-1. 
-
+<a name="header1"/>
 ## Data cleaning
 1. Remove duplicates
 - Remove duplicates by going 'Data' -> 'Remove Duplicates'
@@ -126,6 +124,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | 43  | 31 - 54   |
 | 58  | 55+       |
 
+<a name="header2"/>
 ## Create PivotTables
 1. Average Income By Gender
 - Males have a significantly higher income than females in both categories
@@ -146,7 +145,8 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 ![Age Group](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Age%20Group.jpg)
 
+<a name="header3"/>
 ## Create a dashboard
-
+Creating a dashboard with the three PivotTables and filters by 'Marital Status', 'Region', and 'Occupation'
 ![Dashboard](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Dashboard.jpg)
 
