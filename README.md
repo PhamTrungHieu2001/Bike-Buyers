@@ -35,6 +35,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 <a name="header1"/>
 ## Data cleaning
+</a>
 1. Remove duplicates
 - Remove duplicates by going 'Data' -> 'Remove Duplicates'
 
@@ -126,6 +127,8 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 <a name="header2"/>
 ## Create PivotTables
+</a>
+
 1. Average Income By Gender
 - Males have a significantly higher income than females in both categories
 
@@ -147,6 +150,8 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 <a name="header3"/>
 ## Create a dashboard
+</a>
+
 Creating a dashboard with the three PivotTables and filters by 'Marital Status', 'Region', and 'Occupation'
 ![Dashboard](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Dashboard.jpg)
 
