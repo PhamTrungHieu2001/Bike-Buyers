@@ -29,9 +29,9 @@ The 'Excel Project.xlsx' consists of the following sheets:
 * **Dashboard**: containing all the created PivotTables and some filters
 
 ## Steps  
-1. [Data cleaning](#header1)  
-2. [Create PivotTables](#header2)  
-3. [Create a dashboard](#header3)  
+1. [Data cleaning](#data-cleaning)  
+2. [Create PivotTables](#create-pivottables)  
+3. [Create a dashboard](#create-a-dashboard)  
 
 ## Data cleaning
 
