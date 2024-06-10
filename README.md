@@ -53,10 +53,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | M              | M      |
 | S              | M      |
 | S              | M      |
-| M              | F      |
-| S              | M      |
-| M              | M      |
-| M              | M      |
 
 </td><td>
 
@@ -67,10 +63,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | Married        | Male   |
 | Single         | Male   |
 | Single         | Male   |
-| Married        | Female |
-| Single         | Male   |
-| Married        | Male   |
-| Married        | Male   |
 
 </td></tr> </table>
 
@@ -88,10 +80,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | $80,000.00   |
 | $70,000.00   |
 | $30,000.00   |
-| $10,000.00   |
-| $160,000.00  |
-| $40,000.00   |
-| $20,000.00   |
 
 </td><td>
 
@@ -102,10 +90,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | $80,000   |
 | $70,000   |
 | $30,000   |
-| $10,000   |
-| $160,000  |
-| $40,000   |
-| $20,000   |
 
 </td></tr> </table>
 
@@ -119,10 +103,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | 60  | 55+       |
 | 41  | 31 - 54   |
 | 36  | 31 - 54   |
-| 50  | 31 - 54   |
-| 33  | 31 - 54   |
-| 43  | 31 - 54   |
-| 58  | 55+       |
 
 ## Create PivotTables
 
