@@ -28,10 +28,10 @@ The 'Excel Project.xlsx' consists of the following sheets:
 * **PivotTables**: containing PivotTables created from the cleaned data
 * **Dashboard**: containing all the created PivotTables and some filters
 
-##### Steps  
-[Header1](#header1)  
-[Header2](#header2)  
-[Header3](#header3)  
+## Steps  
+[Data cleaning](#header1)  
+[Create PivotTables](#header2)  
+[Create a dashboard](#header3)  
 
 <a name="header1"/>
 ## Data cleaning
