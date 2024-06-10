@@ -34,7 +34,6 @@ The 'Excel Project.xlsx' consists of the following sheets:
 [Create a dashboard](#header3)  
 
 <a name="header1"/>
-
 ## Data cleaning
 
 1. Remove duplicates
@@ -127,8 +126,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 | 58  | 55+       |
 
 <a name="header2"/>
-Create PivotTables
-</a>
+## Create PivotTables
 
 1. Average Income By Gender
 - Males have a significantly higher income than females in both categories
@@ -150,8 +148,7 @@ Create PivotTables
 ![Age Group](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Age%20Group.jpg)
 
 <a name="header3"/>
-Create a dashboard
-</a>
+## Create a dashboard
 
 Creating a dashboard with the three PivotTables and filters by 'Marital Status', 'Region', and 'Occupation'
 ![Dashboard](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Dashboard.jpg)
