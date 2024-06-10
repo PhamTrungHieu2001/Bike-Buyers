@@ -27,6 +27,15 @@ The 'Excel Project.xlsx' consists of the following sheets:
 * **PivotTables**: containing PivotTables created from the cleaned data
 * **Dashboard**: containing all the created PivotTables and some filters
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+<a name="headers"/>
+## Headers
+
+## Steps
+1. 
+
 ## Data cleaning
 1. Remove duplicates
 - Remove duplicates by going 'Data' -> 'Remove Duplicates'
