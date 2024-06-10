@@ -34,8 +34,8 @@ The 'Excel Project.xlsx' consists of the following sheets:
 [Create a dashboard](#header3)  
 
 <a name="header1"/>
-Data cleaning
 </a>
+## Data cleaning
 
 1. Remove duplicates
 - Remove duplicates by going 'Data' -> 'Remove Duplicates'
