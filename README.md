@@ -127,7 +127,7 @@ The 'Excel Project.xlsx' consists of the following sheets:
 
 ## Create a dashboard
 
-Creating a dashboard with the three PivotTables filtered by 'Marital Status', 'Region', and 'Occupation'
+Creating a dashboard with the three PivotCharts filtered by 'Marital Status', 'Region', and 'Occupation'
 
 ![Dashboard](https://github.com/PhamTrungHieu2001/Bike-Buyers/blob/main/images/Dashboard.jpg)
 
