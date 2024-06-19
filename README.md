@@ -1,10 +1,10 @@
 # Bike-Buyers
 
 ## Objective
-The primary objective of this project is to analyze the demographic characteristics of bike buyers, focusing on identifying trends and patterns within different categories. The analysis aims to provide insights into which type of people are likely to purchase a bike, helping stakeholders understand their customer base better.
+The primary objective of this project is to analyze the demographic characteristics of bike buyers and provide insights into which type of people are likely to purchase a bike.
 
 ## Data source
-The data is sourced from this [GitHub repository](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx). The dataset contains detailed information about individuals who have or have not purchased bikes. The data includes various attributes that can be used to analyze patterns and factors influencing bike purchasing decisions.
+The data is sourced from this [GitHub repository](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx). The dataset contains detailed information about individuals who have or have not purchased bikes.
 
 Attributes:
 - **ID**: Unique identifier for each individual.
@@ -25,8 +25,8 @@ Attributes:
 The 'Excel Project.xlsx' consists of the following sheets:
 * **Data**: raw data extracted from GitHub
 * **Working Sheet**: cleaned data
-* **PivotTables**: containing PivotTables created from the cleaned data
-* **Dashboard**: containing all the created PivotTables and some filters
+* **PivotTables**: PivotTables and PivotCharts created from the cleaned data
+* **Dashboard**: all the created PivotTables, PivotCharts and some filters
 
 ## Steps  
 1. [Data cleaning](#data-cleaning)  
